@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "John",
+    "RolesId": [ 1 ]
+  },
+  {
+    "Name": "Anna",
+    "RolesId": [ 2 ]
+  },
+  {
+    "Name": "smith",
+    "RolesId": [ 1, 2 ]
+  }
+]

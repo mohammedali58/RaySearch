@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Room1",
+    "TreatmentMachineId": null
+  },
+  {
+    "Name": "Room2",
+    "TreatmentMachineId": null
+  },
+  {
+    "Name": "Room3",
+    "TreatmentMachineId": 1
+  },
+  {
+    "Name": "Room4",
+    "TreatmentMachineId": 2
+  }
+]

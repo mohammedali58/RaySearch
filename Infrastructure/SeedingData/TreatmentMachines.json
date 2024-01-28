@@ -1,0 +1,10 @@
+[
+  {
+    "Name": "MachineA",
+    "CapabilityId": 1
+  },
+  {
+    "Name": "MachineB",
+    "CapabilityId": 2
+  }
+]

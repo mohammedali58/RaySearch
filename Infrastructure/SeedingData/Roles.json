@@ -1,0 +1,10 @@
+[
+  {
+    "Name": "Oncologist",
+    "ConditionId":  2
+  },
+  {
+    "Name": "GeneralPractitioner",
+    "ConditionId": 1
+  }
+]
