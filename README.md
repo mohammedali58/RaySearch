@@ -16,5 +16,5 @@ _________________________________________________________________
 
   to run the BE 
 
-  open RayHospital.sln file in BE folder with Visual studio
+  open RayHospital.sln file with Visual studio
 
